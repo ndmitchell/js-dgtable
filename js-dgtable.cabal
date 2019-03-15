@@ -12,7 +12,7 @@ synopsis:           Obtain minified jquery.dgtable code
 description:
     This package bundles the minified <https://github.com/danielgindi/jquery.dgtable jquery.dgtable> code into a Haskell package,
     so it can be depended upon by Cabal packages. The first three components of
-    the version number match the upstream jQuery version. The package is designed
+    the version number match the upstream jquery.dgtable version. The package is designed
     to meet the redistribution requirements of downstream users (e.g. Debian).
 homepage:           https://github.com/ndmitchell/js-dgtable#readme
 bug-reports:        https://github.com/ndmitchell/js-dgtable/issues
