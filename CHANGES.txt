@@ -1,0 +1,4 @@
+Changelog for js-jquery
+
+0.5.2
+    Initial version
