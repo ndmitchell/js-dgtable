@@ -90,7 +90,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    createElement = (0, _util.bind)(document.createElement, document);
 
 	function webkitRenderBugfix(el) {
-	    // BUGFIX: WebKit has a bug where it does not relayout, and this affects us because scrollbars 
+	    // BUGFIX: WebKit has a bug where it does not relayout, and this affects us because scrollbars
 	    //   are still calculated even though they are not there yet. This is the last resort.
 	    var oldDisplay = el.style.display;
 	    el.style.display = 'none';
