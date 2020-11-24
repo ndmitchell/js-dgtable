@@ -1,4 +1,4 @@
-# js-dgtable [![Hackage version](https://img.shields.io/hackage/v/js-dgtable.svg?label=Hackage)](https://hackage.haskell.org/package/js-dgtable) [![Stackage version](https://www.stackage.org/package/js-dgtable/badge/nightly?label=Stackage)](https://www.stackage.org/package/js-dgtable) [![Build status](https://img.shields.io/travis/ndmitchell/js-dgtable/master.svg?label=Build)](https://travis-ci.org/ndmitchell/js-dgtable)
+# js-dgtable [![Hackage version](https://img.shields.io/hackage/v/js-dgtable.svg?label=Hackage)](https://hackage.haskell.org/package/js-dgtable) [![Stackage version](https://www.stackage.org/package/js-dgtable/badge/nightly?label=Stackage)](https://www.stackage.org/package/js-dgtable) [![Build status](https://img.shields.io/github/workflow/status/ndmitchell/js-dgtable/ci.svg)](https://github.com/ndmitchell/js-dgtable/actions)
 
 This package bundles the minified [jquery.dgtable](https://github.com/danielgindi/jquery.dgtable) code into a Haskell package,
 so it can be depended upon by Cabal packages. The first three components of
